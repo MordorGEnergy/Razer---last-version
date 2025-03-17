@@ -17,5 +17,6 @@
 [Просмотр сайта](https://mordorgenergy.github.io/Razer---last-version/)
 ---
 ## Контакты для связи с создателем
-Номер телефона - *8-(999)-999-99-99
-Почтас - [SozdatelSegoTvorenia@gmail.com](SozdatelSegoTvorenia@gmail.com)
+Номер телефона - *8-(999)-999-99-99*
+
+Почта - [SozdatelSegoTvorenia@gmail.com](SozdatelSegoTvorenia@gmail.com)
