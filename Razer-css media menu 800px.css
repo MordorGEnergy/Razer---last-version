@@ -1,0 +1,108 @@
+@media (max-width:800px) {
+    .header_up {
+        display: none;
+    }
+
+    .header_center {
+        border: none;
+        padding: 0;
+    }
+
+    .svg_b_menu {
+        display: block;
+    }
+
+    .menu_800px {
+        display: flex;
+        background-color: white;
+        width: 100%;
+        height: 100%;
+        justify-content: center;
+    }
+
+    .krestik {
+        width: 5.4vw;
+        height: 5.4vw;
+    }
+
+    .registration {
+        font-size: 3.4vw;
+    }
+
+    .krest_box {
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        padding-left: 1vw;
+        width: 10%;
+        height: 100%;
+    }
+
+    .search_heart_shop-bag {
+        display: flex;
+        justify-content: end;
+        gap: 5vw;
+    }
+
+    .poisk {
+        width: 5vw;
+        height: 5vw;
+    }
+
+    .lishki_1 {
+        font-size: 5vw;
+        margin-bottom: 4vh;
+    }
+
+    .lishki {
+        font-size: 5vw;
+        line-height: 4vh;
+    }
+
+    .box_menu {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        height: 100%;
+        width: 80%;
+        padding-right: 6vw;
+    }
+
+    .krest {
+        left: 0;
+        width: 5.4vw;
+        height: 5.4vw;
+    }
+
+    .menuup1_1 {
+        list-style: none;
+        text-align: center;
+    }
+
+    .number {
+        display: flex;
+        flex-direction: column;
+        gap: 3vw;
+    }
+
+    .menu1 {
+        width: 10%;
+    }
+}
+
+@media (max-width:800px) {
+    .menuup1 {
+        display: none;
+    }
+
+    .phone_numb {
+        font-size: 2.1vh;
+        color: gray;
+    }
+
+    .grad_numb {
+        font-size: 3.4vw;
+    }
+}
